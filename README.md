@@ -3,6 +3,9 @@
 A sleek and responsive weather forecast app that shows the **current weather** and a **24-hour forecast** using OpenWeatherMap API.  
 Built with React, Tailwind CSS, and custom hooks – just plug in a city and get all the info you need! 🏙️
 
+## 🔗 Live Demo
+
+👉 [Click here to view the live app](https://weather-app-v2-teal.vercel.app/)  
 ---
 
 ## 🚀 Features
